@@ -290,6 +290,14 @@ This project is licensed under the MIT License.
 **Jeeva Prakash**
 - GitHub: [@Jeevaprakash-03](https://github.com/Jeevaprakash-03)
 
+**Sabarish**
+- GitHub: [@sabarish-pvt](https://github.com/sabarish-pvt)
+
+**Rishi**
+- GitHub: [@rishi-18-pvt](https://github.com/rishi-18-pvt)
+
+## Live Link 🔗: https://aqiappproject-mwxuzyefhxrgas4rquxphp.streamlit.app/
+
 ## 🙏 Acknowledgments
 
 - EPA (Environmental Protection Agency) for AQI standards
