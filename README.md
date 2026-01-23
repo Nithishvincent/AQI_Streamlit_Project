@@ -264,6 +264,20 @@ Contributions are welcome! Please follow these steps:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Screenshots
+<img width="1807" height="515" alt="image" src="https://github.com/user-attachments/assets/a46f08ec-b962-4382-8c1e-6b32ef5033e5" />
+
+<img width="1789" height="787" alt="image" src="https://github.com/user-attachments/assets/c4720597-1aed-40d1-bb87-50bc6ff1f056" />
+
+
+**5️⃣ Actual vs Predicted AQI**
+
+<img width="654" height="489" alt="image" src="https://github.com/user-attachments/assets/dc82cb8e-a180-4025-ba64-9eeb05bad629" />
+
+<img width="1797" height="429" alt="image" src="https://github.com/user-attachments/assets/efaa7c32-3c0d-4ec0-9f0e-6f7529fa4551" />
+
+
+
 ## 📝 License
 
 This project is licensed under the MIT License.
@@ -272,8 +286,9 @@ This project is licensed under the MIT License.
 
 **Nithish**
 - GitHub: [@Nithishvincent](https://github.com/Nithishvincent)
+
 **Jeeva Prakash**
-- GitHub: [@Nithishvincent](https://github.com/Jeevaprakash-03)
+- GitHub: [@Jeevaprakash-03](https://github.com/Jeevaprakash-03)
 
 ## 🙏 Acknowledgments
 
