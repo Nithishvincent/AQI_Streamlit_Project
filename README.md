@@ -277,28 +277,19 @@ Contributions are welcome! Please follow these steps:
 <img width="1797" height="429" alt="image" src="https://github.com/user-attachments/assets/efaa7c32-3c0d-4ec0-9f0e-6f7529fa4551" />
 
 
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
 ## 👨‍💻 Authors
 
-**Nithish**
-- GitHub: [@Nithishvincent](https://github.com/Nithishvincent)
+**Nithish** GitHub: [@Nithishvincent](https://github.com/Nithishvincent)
 
-**Jeeva Prakash**
-- GitHub: [@Jeevaprakash-03](https://github.com/Jeevaprakash-03)
+**Jeeva Prakash** GitHub: [@Jeevaprakash-03](https://github.com/Jeevaprakash-03)
 
-**Sabarish**
-- GitHub: [@sabarish-pvt](https://github.com/sabarish-pvt)
+**Sabarish** GitHub: [@sabarish-pvt](https://github.com/sabarish-pvt)
 
-**Rishi**
-- GitHub: [@rishi-18-pvt](https://github.com/rishi-18-pvt)
+**Rishi**  GitHub: [@rishi-18-pvt](https://github.com/rishi-18-pvt)
 
 ## Live Link 🔗: https://aqiappproject-mwxuzyefhxrgas4rquxphp.streamlit.app/
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - EPA (Environmental Protection Agency) for AQI standards
 - Scikit-learn documentation and community
